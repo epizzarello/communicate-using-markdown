@@ -10,3 +10,6 @@ function transpose(matrix) {
   return matrix[0].map((col, i) => matrix.map(row => row[i]));
 }
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
